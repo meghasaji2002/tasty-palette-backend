@@ -1,0 +1,41 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "caption": "noodles",
+      "url": "https://static.toiimg.com/thumb/52467119.cms?imgsize=1106358&width=800&height=800",
+      "description": "noodle, a cooked egg-and-flour paste prominent in European and Asian cuisine, generally distinguished from pasta by its elongated ribbonlike form. Noodles are commonly used to add body and flavour to broth soups. They are commonly boiled or sautéed and served with sauces and meats or baked in casseroles.",
+      "embedLink": "https://www.youtube.com/embed/BLV6q4,st:0",
+      "Comment": "super delicious"
+    },
+    {
+      "id": "4",
+      "caption": "dragon chicken",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6JKnJNV8Q3_CnGfg8i_tzwSOpuKWbZLC1A&usqp=CAU",
+      "description": "It is a dish in which chicken in cut into thin strips which are coated in a batter and fried till crispy texuture and coated in a sauce is made with chillies, soy sauce, ginger and garlic. Addition of whole red chillies and cashews add a good texture to the chicken dish.",
+      "embedLink": "https://www.youtube.com/embed/klG-9M,st:0"
+    },
+    {
+      "id": "5",
+      "caption": "payasam",
+      "url": "https://images.herzindagi.info/image/2023/Sep/payasam-recipes.jpg",
+      "description": "Kheer, also known as payasam or payesh, is a pudding/porridge popular in the Indian subcontinent, usually made by boiling milk, sugar or jaggery, and rice. It can be additionally flavored with dried fruits, nuts, cardamom and saffron.",
+      "embedLink": "https://www.youtube.com/embed/4PGd2U,st:0"
+    },
+    {
+      "id": "6",
+      "caption": "fried rice",
+      "url": "https://www.nestleprofessional.in/sites/default/files/2022-07/Fried-Rice.jpg",
+      "description": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, ...",
+      "embedLink": "https://www.youtube.com/embed/ZTgVFe4_H-s"
+    },
+    {
+      "id": "8",
+      "caption": "icecream",
+      "url": "https://static.toiimg.com/photo/101136807.cms",
+      "description": "Ice cream is a frozen dessert typically made from milk or cream that has been flavoured with a sweetener, either sugar or an alternative, and a spice, such as cocoa or vanilla, or with fruit, such as strawberries or peaches.",
+      "embedLink": "https://www.youtube.com/embed/7gJIyHnD710"
+    }
+  ],
+  "Categories": []
+}
